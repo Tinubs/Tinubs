@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, My name is Aminat
+---
+- 🔭 I’m a pharmacist who found passion in Data and Tech
+- 🌱 I’m currently learning Python and cloud computing
+- 👯 I’m looking to collaborate with fellow data analyst to engage in projects that involves insight and decision-making
+- 💬 Ask me about anything data!
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love readig novels. Its my ultimate escape and passion!
+---
 
-<!--
-**Tinubs/Tinubs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me
+[![LinkedIn Logo](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)](https://www.linkedin.com/in/tinubu)
+---
