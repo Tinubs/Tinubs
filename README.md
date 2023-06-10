@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate with fellow data analyst to engage in projects that involves insight and decision-making
 - 💬 Ask me about anything data!
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love readig novels. Its my ultimate escape and passion!
+- ⚡ Fun fact: I love reading novels. Its my ultimate escape and passion!
 ---
 
 ## Connect with me
